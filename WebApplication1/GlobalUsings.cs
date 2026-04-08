@@ -1,0 +1,1 @@
+global using WebApplication1.Domain.Models;

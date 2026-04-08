@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using WebApplication1.Services.StudentServices;
+using WebApplication1.Application.IServices;
 
 namespace WebApplication1.Controllers
 {
